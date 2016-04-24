@@ -1,6 +1,6 @@
 # Arduino for Tetris
 
-http://github.com/derektu/arduino_tetris
+- http://github.com/derektu/arduino_tetris
 
 ## 步驟
 
